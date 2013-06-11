@@ -12,3 +12,5 @@ Test 4
 Change
 
 A change from the master
+
+Change from hotfix
